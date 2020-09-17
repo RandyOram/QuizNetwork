@@ -1,0 +1,1 @@
+java -XX:+UseSerialGC -cp ./json-simple-1.1.1.jar:./server ServerMain

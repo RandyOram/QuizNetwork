@@ -1,0 +1,1 @@
+java -XX:+UseSerialGC -cp ./client ClientMain $1 $2 ${3}

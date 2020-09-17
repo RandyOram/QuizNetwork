@@ -1,0 +1,11 @@
+p 8
+test
+Is this a test?
+.
+(a) yes
+.
+(b) no
+.
+.
+a
+g 8
